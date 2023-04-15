@@ -26,7 +26,6 @@
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Florian Braun] (https://github.com/iPwnds)
-- Ankush tripathi
 - [Fariahh Basha] (https://github.com/fari03)
 - [Nicolas Soroka] (https://github.com/NicolasSoroka)
 - [Harald Kriebisch](https://github.com/haraldkri)
@@ -48,6 +47,7 @@
 - [Dan Eldon](https://github.com/Eldon-498)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Shreya Sriramineni](https://github.com/shreya1728)
+- Ankush tripathi
 - [Trevor Shepherd](https://github.com/TS-Acc)
 - [Usitha Indeewara](https://github.com/usithadev)
 - [Narendra Reddy](https://github.com/narendra098)
