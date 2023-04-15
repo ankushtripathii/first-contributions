@@ -26,6 +26,7 @@
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Florian Braun] (https://github.com/iPwnds)
+- Ankush tripathi
 - [Fariahh Basha] (https://github.com/fari03)
 - [Nicolas Soroka] (https://github.com/NicolasSoroka)
 - [Harald Kriebisch](https://github.com/haraldkri)
